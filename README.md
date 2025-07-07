@@ -1,10 +1,12 @@
-## Hello, I'm Divye! 👋
-Before we dive in, here’s what you should know about me:
-- 🎓 Graduate Cybersecurity student at Johns Hopkins University
-- 🔭 I’m currently working towards the HackTheBox Certified Penetration Testing Specialist (HTB CPTS) certification
-- 🌱 I love tearing things down and starting from scratch
-- 😄 Pronouns: he/him
-- 🗣️ Visit my blog linked down below to find more fun stuff about me :)
+# Hey there, I'm Divye! 👋
+Here’s the quick scoop on me:
+- 🎓 Pursuing my master’s in Cybersecurity at Johns Hopkins (yes, I hack stuff legally).
+- 🔍 Deep into HackTheBox and currently grinding for my CPTS certification.
+- 🛠️ I’m all about breaking things just to see how they work—and then making them even better.
+- 😎 Pronouns: he/him 
+- 💬 Looking for more geeky goodness? Scroll down to my blog for all the details.
+
+Let’s connect and geek out together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divyekalra1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyekalra2@gmail.com) [![blog](https://img.shields.io/badge/Personal%20Blog%20and%20Notes-008000)](https://divyekalra1.github.io/portfolio/) 
