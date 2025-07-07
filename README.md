@@ -3,7 +3,9 @@ Here’s the quick scoop on me:
 - 🎓 Pursuing my master’s in Cybersecurity at Johns Hopkins (yes, I hack stuff legally).
 - 🔍 Deep into HackTheBox and currently grinding for my CPTS certification.
 - 🛠️ I’m all about breaking things just to see how they work—and then making them even better.
-- 😎 Pronouns: he/him 
+- 😎 Pronouns: he/him
+- 🏋️ Big fan of lifting heavy things (and putting them back down)
+- 🖱️ Proud Team Liquid CS2 fan (RIP CS:GO, you’ll always have my heart)
 - 💬 Looking for more geeky goodness? Scroll down to my blog for all the details.
 
 Let’s connect and geek out together!
